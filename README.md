@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange?style=flat&logo=scikit-learn"/>
   <img src="https://img.shields.io/badge/MLOps-FastAPI%20%7C%20Docker%20%7C%20MLflow-blue?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/Data%20Visualization-Power%20BI-yellow?style=flat&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20GCP-informational?style=flat&logo=googlecloud"/>
 </p>
 
 ---
