@@ -1,64 +1,97 @@
 <h1 align="center">👋 Hey, I'm Hari — Data Scientist & ML Engineer</h1>
 
-<p align="center"><em>MS in Data Science | Real-world ML | MLOps | Data Visualization</em></p>
+<p align="center">
+  <b>Data Scientist | ML Engineer | Dashboard Specialist</b><br>
+  <em>Deploying ML with purpose — from models to decisions to impact.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange?style=flat&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/MLOps-FastAPI%20%7C%20Docker%20%7C%20MLflow-blue?style=flat&logo=docker"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-Power%20BI-yellow?style=flat&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20GCP-informational?style=flat&logo=googlecloud"/>
+</p>
 
 ---
 
-### 🚀 About Me
+## 🧠 About Me
 
-🎓 MS Data Science @ University of Arizona  
-🧠 Focused on **practical machine learning**, **data engineering**, and **interactive dashboards**  
-🛠️ Passionate about building real solutions — from churn prediction pipelines to film recommendation engines
-
----
-
-### 💼 Selected Projects
-
-#### 🎬 CineScope – Personalized Film Recommendation Engine  
-- Developed a movie recommendation system using **collaborative + content-based filtering**  
-- Engineered user preferences from ratings, genres, and keywords to deliver smart recommendations  
-- Built interactive UI for batch uploads and personalized insights  
-> **Tools:** Python, Pandas, Scikit-learn, Streamlit
+- 🎓 Graduate Student in Data Science @ University of Arizona  
+- 🛠 I design data systems that **learn**, **scale**, and **deliver results**  
+- 💡 Experienced in turning messy data into **production-ready ML** and clean business dashboards  
+- 🎯 Current focus: **MLOps, real-time pipelines, and data products that matter**
 
 ---
 
-#### 🧠 Telco Churn MLOps  
-- End-to-end ML pipeline for churn prediction: preprocessing → model → deployment → monitoring  
-- Dockerized FastAPI backend + Streamlit dashboard with CSV upload and churn risk visuals  
-> **Tools:** FastAPI, Docker, MLflow, Streamlit, Scikit-learn
+## 🔥 Highlight Project: Telco Churn MLOps
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-End--to--End%20ML%20Deployment-green?style=for-the-badge&logo=fastapi"/>
+</p>
+
+> 🧠 Built a full machine learning system to predict customer churn and serve live predictions  
+> 🐳 **Dockerized FastAPI backend** handles batch & real-time input  
+> 📈 Interactive **Streamlit dashboard** visualizes churn risk from uploaded CSVs  
+> 🔄 Tracked model lifecycle using **MLflow** for experiment tracking & version control  
+>  
+> **Impact:** Shows capability to own a pipeline from model training to deployment to monitoring
+
+**Tech Stack:** Python, Scikit-learn, FastAPI, Streamlit, Docker, MLflow, GitHub Actions  
+**Demo:** [GitHub Repo](https://github.com/harid0718/telco-churn-mlops)
 
 ---
 
-#### 📊 PeoplePulse HR Insights Dashboard  
-- Power BI dashboard analyzing attrition, overtime, satisfaction by department  
-- Built using **Power Query, DAX**, and optimized for executive decision-making  
-> **Tools:** Power BI, Excel, SQL
+## 🚀 Other Projects
+
+### 📊 PeoplePulse HR Dashboard  
+- Power BI dashboard with filters, KPIs, and trend insights for HR decision-making  
+- Explored links between attrition, overtime, and satisfaction  
+> Tools: Power BI, Excel, DAX, Power Query
+
+### 🚖 NYC Taxi Analytics  
+- Built a PostgreSQL pipeline with Yellow Taxi data & created a Power BI dashboard for trip KPIs  
+> Tools: Python, PostgreSQL, Docker, Power BI
+
+### 🎬 CineScope – Film Recommendation Engine  
+- Hybrid recommendation system using collaborative + content-based filtering  
+- Built Streamlit UI to showcase personalized suggestions from uploaded preferences  
+> Tools: Python, Pandas, Scikit-learn, Streamlit
 
 ---
 
-#### 🚖 NYC Taxi Trip Analytics  
-- Processed Yellow Taxi data → loaded into PostgreSQL → visualized KPIs on Power BI  
-- Created an interactive dashboard with trends, heatmaps, and ride metrics  
-> **Tools:** Python, Pandas, PostgreSQL, Power BI, Docker
+## 🛠️ Tech Toolbox
+
+| Area | Tools |
+|------|-------|
+| **Languages** | Python, SQL |
+| **ML & Modeling** | Scikit-learn, XGBoost, TensorFlow, Time-Series, NLP |
+| **Visualization** | Power BI, Tableau, Streamlit |
+| **MLOps & Dev** | FastAPI, Docker, MLflow, GitHub Actions |
+| **Data & Storage** | PostgreSQL, MongoDB, DuckDB |
 
 ---
 
-### 🧠 Core Skills
+## 📚 Relevant Coursework
 
-- **Languages:** Python, SQL
-- **ML:** Regression, Random Forest, XGBoost, Time-Series, NLP, Recommendation  
-- **Tools:** Power BI, Tableau, Streamlit, Docker, MLflow, FastAPI  
-- **Databases:** PostgreSQL, MongoDB  
-- **Cloud:** Azure, GCP, AWS
-
----
-
-### 📫 Let’s Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/hari0718)  
-- 📄 Resume: Available on request  
-- 📬 Email: haridave0718@arizona.edu
+- MLOps & Model Deployment  
+- Deep Learning
+- Data Mining & Predictive Analytics
+- BI Tools & Visualization
+- Data Warehousing
+- SQL/NoSQL Databases
 
 ---
 
-<p align="center"><em>"Curious mind. Clean code. Useful models."</em></p>
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/hari0718"><img src="https://img.shields.io/badge/LinkedIn-hari0718-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:haridave0718@arizona.edu"><img src="https://img.shields.io/badge/Email-haridave0718@arizona.edu-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+<p align="center"><em>"I don’t just build models—I deploy solutions people can actually use."</em></p>
+
+
+
