@@ -91,7 +91,7 @@
 
 ---
 
-<p align="center"><em>"I don’t just build models—I deploy solutions people can actually use."</em></p>
+<p align="center"><em>"I don’t just build models, I deploy solutions people can actually use."</em></p>
 
 
 
