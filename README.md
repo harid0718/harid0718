@@ -85,7 +85,7 @@
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/hari0718"><img src="https://img.shields.io/badge/LinkedIn-hari0718-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/hari-dave2002/"><img src="https://img.shields.io/badge/LinkedIn-hari0718-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:haridave0718@arizona.edu"><img src="https://img.shields.io/badge/Email-haridave0718@arizona.edu-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
