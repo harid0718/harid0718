@@ -51,6 +51,12 @@
 - Built a PostgreSQL pipeline with Yellow Taxi data & created a Power BI dashboard for trip KPIs  
 > Tools: Python, PostgreSQL, Docker, Power BI
 
+### 📚 Online Bookstore Management System
+- Designed ER models, built SQL and NoSQL implementations, and integrated a smart LLM assistant
+- Ask business questions in plain English — get MongoDB aggregation results instantly
+- Streamlit dashboard backed by LangChain + Mixtral for AI-driven querying
+> Tech Stack: MySQL, MongoDB, Python, JavaScript, LangChain, Streamlit
+
 ### 🎬 CineScope – Film Recommendation Engine  
 - Hybrid recommendation system using collaborative + content-based filtering  
 - Built Streamlit UI to showcase personalized suggestions from uploaded preferences  
