@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Hari — Data Analyst & ML Engineer</h1>
 
 <p align="center">
-  <b>Data Scientist | ML Engineer | Dashboard Specialist</b><br>
+  <b>Data Analyst | ML Engineer | Data Scientist | Insight Generation</b><br>
   <em>Deploying ML with purpose — from models to decisions to impact.</em>
 </p>
 
