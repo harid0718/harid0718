@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Hari — Data Scientist & ML Engineer</h1>
+<h1 align="center">👋 Hey, I'm Hari — Data Analyst & ML Engineer</h1>
 
 <p align="center">
   <b>Data Scientist | ML Engineer | Dashboard Specialist</b><br>
