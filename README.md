@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Analyst | ML Engineer | Data Scientist | Insight Generation</b><br>
-  <em>Deploying ML with purpose — from models to decisions to impact.</em>
+  <em>Deploying ML with purpose - from models to decisions to impact.</em>
 </p>
 
 <p align="center">
